@@ -8,7 +8,7 @@ You can use `omar2205/roberta-base-squad2-onnx`. It's a bit more powerful, and u
 
 ## Usage
 
-You can click this link: [Deploy to Deno Deploy](WIP). And you will deploy this code into the Deno Playground.
+You can click this link: [Deploy to Deno Deploy](https://dash.deno.com/new?url=https://github.com/omar2205/deno-qa-bot/blob/main/main.ts&env=BOT_CONTEXT,BOT_MODEL). And you will deploy this code into the Deno Playground.
 
 
 You can also clone (or download) this repo and update relevant parts.
