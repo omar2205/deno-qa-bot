@@ -10,6 +10,15 @@ You can use `omar2205/roberta-base-squad2-onnx`. It's a bit more powerful, and u
 
 You can click this link: [Deploy to Deno Deploy](https://dash.deno.com/new?url=https://raw.githubusercontent.com/omar2205/deno-qa-bot/main/main.ts&env=BOT_CONTEXT). And you will deploy this code into the Deno Deploy project.
 
+You will be asked to provide a `context`, provide all the information for the model to get the answers. (Might need a bit updating to get good results)
+Example: 
+
+```
+Your name is MrBot.
+My font is Jetbrains Mono.
+I use nvim as my editor.
+```
+
 Add `,BOT_MODEL=MODEL/PATH` to the URL to use a custom model.
 
 For example: `,BOT_MODEL=omar2205/roberta-base-squad2-onnx`
