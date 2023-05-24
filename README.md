@@ -20,3 +20,11 @@ You can also clone (or download) this repo and update relevant parts.
 ### API usage
 
 Example:
+
+```
+curl "https://brave-newt-41.deno.dev/?q=what's the font?"
+{
+  "answer": "anonymous pro",
+  "score": 0.19661939422501717,
+  "question": "what's the font?"
+}
