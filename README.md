@@ -31,7 +31,8 @@ You can also clone (or download) this repo and update relevant parts.
 Example:
 
 ```
-curl "https://brave-newt-41.deno.dev/?q=what's the font?"
+Visiting this:
+https://brave-newt-41.deno.dev/?q=what's the font?
 {
   "answer": "anonymous pro",
   "score": 0.19661939422501717,
